@@ -20,7 +20,7 @@ Features:
 Installation & Setup:
 
 1. Clone the repository:
-   git clone https://github.com/naik-shashank/DeepDetect.git
+   git clone https://github.com/SatishY21/Deep-Detect.git
    cd DeepDetect
 
 2. Install dependencies:
